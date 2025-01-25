@@ -1,6 +1,7 @@
 <h1 align="center">✨ SaaS Code Editor - Next.js 15 ✨</h1>
 
 ![Demo App](/public/screenshot-for-readme.png)
+![{669E7AAC-0C7E-4B83-B085-D45356D21C8C}](https://github.com/user-attachments/assets/426fac03-7320-4723-8d62-c7da04d917df)
 
 Highlights:
 
